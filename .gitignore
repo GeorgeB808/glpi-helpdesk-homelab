@@ -1,0 +1,30 @@
+# Linux temporary files
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Log files
+*.log
+
+# SQL database backups
+*.sql
+*.sql.gz
+
+# Environment variables
+.env
+.env.local
+
+# Private keys
+*.pem
+*.key
+
+# Temporary folders
+tmp/
+cache/
